@@ -1,0 +1,15 @@
+/home/autimatisering/Documents/dotnet training/bin/Debug/net6.0/dotnet training
+/home/autimatisering/Documents/dotnet training/bin/Debug/net6.0/dotnet training.deps.json
+/home/autimatisering/Documents/dotnet training/bin/Debug/net6.0/dotnet training.runtimeconfig.json
+/home/autimatisering/Documents/dotnet training/bin/Debug/net6.0/dotnet training.dll
+/home/autimatisering/Documents/dotnet training/bin/Debug/net6.0/dotnet training.pdb
+/home/autimatisering/Documents/dotnet training/obj/Debug/net6.0/dotnet training.csproj.AssemblyReference.cache
+/home/autimatisering/Documents/dotnet training/obj/Debug/net6.0/dotnet training.GeneratedMSBuildEditorConfig.editorconfig
+/home/autimatisering/Documents/dotnet training/obj/Debug/net6.0/dotnet training.AssemblyInfoInputs.cache
+/home/autimatisering/Documents/dotnet training/obj/Debug/net6.0/dotnet training.AssemblyInfo.cs
+/home/autimatisering/Documents/dotnet training/obj/Debug/net6.0/dotnet training.csproj.CoreCompileInputs.cache
+/home/autimatisering/Documents/dotnet training/obj/Debug/net6.0/dotnet training.dll
+/home/autimatisering/Documents/dotnet training/obj/Debug/net6.0/refint/dotnet training.dll
+/home/autimatisering/Documents/dotnet training/obj/Debug/net6.0/dotnet training.pdb
+/home/autimatisering/Documents/dotnet training/obj/Debug/net6.0/dotnet training.genruntimeconfig.cache
+/home/autimatisering/Documents/dotnet training/obj/Debug/net6.0/ref/dotnet training.dll
