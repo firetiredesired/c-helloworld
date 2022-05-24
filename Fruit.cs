@@ -7,13 +7,18 @@ namespace HelloWorld
     {
 
         public string name;
+        public bool eaten;
 
         public Fruit (string name) {
             this.name = name;
         }
 
         public string EatFruit() {
-            return "yum";
+            this.eaten = true;
+            return "";
+        }
+        public string notconsumed() {
+            return "noconsumed";
         }
     }
 }
